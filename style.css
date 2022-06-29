@@ -154,4 +154,6 @@ footer{
     border-top: 5px solid #ff2978;
     color: white;
 }
-
+.rodape p{
+    padding: 100px;
+}
