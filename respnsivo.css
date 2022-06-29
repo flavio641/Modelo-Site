@@ -32,4 +32,7 @@
     .rodape p{
         padding-top: 10px;
     }
+    footer{
+        height: 400px;
+    }
 }
