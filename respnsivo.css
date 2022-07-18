@@ -29,5 +29,11 @@
     .card{
         width: 100%;
     }
+<<<<<<< HEAD
   
+=======
+    .rodape p{
+        padding-top: 10px;
+    }
+>>>>>>> parent of 388ab7c (alteração no rodape)
 }
